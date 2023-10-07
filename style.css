@@ -1,0 +1,17 @@
+body{
+    background: gray;
+}
+.container{
+    text-align: center;
+    height: 500px;
+    margin-top: 10%;
+}
+.container p span{
+    font-size: 30px;
+    font-weight: 600;
+}
+button{
+    padding: 20px;
+    font-size: 20px;
+    width: 100px;
+}
